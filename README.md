@@ -3,6 +3,9 @@
 Link to live version of app for previewing/testing (please allow a minute for loading, Heroku has to re-run the model):
 https://incomepredictioncapstone-nbull.herokuapp.com/
 
+You can also simply view the notebook above to see the data visualizations, but the interactive elements (which are the core functionality of the app) won't work within GitHub.
+
+
 # Project Summary
 This project used machine learning tools from the Python scikit-learn library to create a predictive model for income based on factors including age, marital status, education level, and occupation type. Training data were sourced from United States Census Bureau data. The final model is able to predict whether an individual makes greater than $50,000 per year with approximately 80% accuracy.
 
